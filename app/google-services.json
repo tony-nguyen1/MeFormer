@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289335418578",
+    "project_id": "meformer-470de",
+    "storage_bucket": "meformer-470de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289335418578:android:974745852c683b728d970b",
+        "android_client_info": {
+          "package_name": "fr.umontpellier.etu.meformer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCyAlBSuDi5OegoUJcYKcz2ku8f_IotM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeFormer</string>
+    <string-array name="roles_array">
+        <item>Parent</item>
+        <item>Élève</item>
+    </string-array>
+
+</resources>
